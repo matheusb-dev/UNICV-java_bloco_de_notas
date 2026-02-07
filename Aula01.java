@@ -4,6 +4,6 @@ public class Aula01{
 
 		System.out.println("Hello World");
 
-		}
 	}
 }
+
